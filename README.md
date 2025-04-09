@@ -1,4 +1,4 @@
-# Using DQS with Rspamd
+ # Using DQS with Rspamd
 
 This repository contains configuration files for Rspamd, (https://rspamd.com/) for use with the Spamhaus Technology Data Query Service (DQS) product.
 
